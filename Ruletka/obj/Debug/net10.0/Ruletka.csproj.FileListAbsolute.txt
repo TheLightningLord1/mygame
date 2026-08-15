@@ -1,0 +1,28 @@
+C:\Users\sasov\Ruletka\bin\Debug\net10.0\Ruletka.exe
+C:\Users\sasov\Ruletka\bin\Debug\net10.0\Ruletka.deps.json
+C:\Users\sasov\Ruletka\bin\Debug\net10.0\Ruletka.runtimeconfig.json
+C:\Users\sasov\Ruletka\bin\Debug\net10.0\Ruletka.dll
+C:\Users\sasov\Ruletka\bin\Debug\net10.0\Ruletka.pdb
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.AssemblyInfoInputs.cache
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.AssemblyInfo.cs
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.csproj.CoreCompileInputs.cache
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.dll
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\refint\Ruletka.dll
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.pdb
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\Ruletka.genruntimeconfig.cache
+C:\Users\sasov\Ruletka\obj\Debug\net10.0\ref\Ruletka.dll
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\bin\Debug\net10.0\Ruletka.exe
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\bin\Debug\net10.0\Ruletka.deps.json
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\bin\Debug\net10.0\Ruletka.runtimeconfig.json
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\bin\Debug\net10.0\Ruletka.dll
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\bin\Debug\net10.0\Ruletka.pdb
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.AssemblyInfoInputs.cache
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.AssemblyInfo.cs
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.csproj.CoreCompileInputs.cache
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.dll
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\refint\Ruletka.dll
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.pdb
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\Ruletka.genruntimeconfig.cache
+C:\Users\sasov\OneDrive\Desktop\Kirill`s program\ПРОГРАММЫ\Ruletka\obj\Debug\net10.0\ref\Ruletka.dll
